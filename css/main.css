@@ -70,7 +70,7 @@ a:hover {
 }
 
 .container {
-  padding: 150px 0 100px 250px;
+  padding: 100px 0 50px 50px;
   display: flex;
   flex-grow: 1; 
   flex-direction: column;
