@@ -38,7 +38,7 @@ header {
 header .logo {
   color: #fff;
   float: left;
-  font-family: 'sans-serif'
+  font-family: 'sans-serif';
   font-size: 22px;
   font-weight: 500;
 }
